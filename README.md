@@ -21,3 +21,5 @@ The state of mind that encourages learning, intellectual growth, and skill devel
 - Do not expect to master all the skills during school, "good enough for government work" applies for now.
 
 Link to my github portfolio:  [Marc1776](https://github.com/marc1776)
+
+[Class 1](https://marc1776.github.io/reading-notes-codefellows/class1)
