@@ -1,5 +1,9 @@
 # Operators
 
+[Help site loop](https://www.w3schools.com/js/js_loop_for.asp)
+
+[Help site Operators](https://www.w3schools.com/js/js_operators.asp)
+
 
 Name 	                        Shorthand operator 	        Meaning
 Assignment                    	  x = f() 	              x = f()
