@@ -21,7 +21,7 @@ You can also create a Markdown hyperlink by highlighting the text and using the 
 
 You can display an image by adding ! and wrapping the alt text in [ ]. Then wrap the link for the image in parentheses ().
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg )
 
 You can make an unordered list by preceding one or more lines of text with - or *.
 
