@@ -8,6 +8,8 @@ I live in and grew up in Arizona.  I spent 14 years in the US Army as an airborn
 
 [Growth Mindset](https://marc1776.github.io/reading-notes-codefellows/class1growthmindset)
 
+[Markdown](https://marc1776.github.io/reading-notes-codefellows/class1bmarkdown)
+
 [Terminal](https://marc1776.github.io/reading-notes-codefellows/class2terminal)
 
 [Revisions and Cloud](https://marc1776.github.io/reading-notes-codefellows/class3)
