@@ -27,15 +27,26 @@ o	**Tree** – visual of all the directories and files of where I currently am
 o	**Reset** – will reset the terminal
 
 o	 **git clone** (copy here the repo address saved earlier)
+
 o	 Gitflow:acp (add, commit, push)
+
 o	 **git status** (gives update with what is going on)
+
 o	 **code .** open VS code with my current work
+
 o	 **git add then file name** (capitalization important)
+
 o	 **git commit -m “message”** actually saves the file with a message
+
 o	 On VS, if there is a dot, that indicates a change that has not saved
+
 o	 **git push origin main** 
+
 o	can also add multiple files at once  **git add newfile.md newfile2.md newfile3.md**
+
 o	**git add .** will add everything that has changes
+
 o	**git pull origin main** pulls changes made on github onto my computer
+
 o	Just make all changes in the VS instead of bouncing back and forth.
 
