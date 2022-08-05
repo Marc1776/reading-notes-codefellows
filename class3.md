@@ -48,3 +48,8 @@ o	Usually one project = one repository
 o	Large project can have 1 repo for each section of the project (front end vs back end)
 
 o	Can live on github and/or my computer
+
+**cloning**
+By cloning the file, you have copied all versions of all files for a project. This command leads to the creation of a directory called “test,” with an initialized .git directory inside it, which has copies of all versions of all files for the specified project. The command also automatically checks out — or retrieves for editing — a copy of the newest version of the project.
+
+
