@@ -16,6 +16,12 @@ Changes to CSS are controlled so that old websites still work on current code.
 ## Resources
 [CSS tutorial](https://www.w3schools.com/css/default.asp)
 
-### Personal Observations
+CSS is the language we use to style an HTML document.
+
+CSS describes how HTML elements should be displayed.
+
+## Notes to self:
+
+Slow down with CSS, there is a bazillion and one ways to style things sketch out a general idea in the wireframe, then introduce the elements.  Once the elements have been put in, take a good look, then make changes to the elements.
 
 
