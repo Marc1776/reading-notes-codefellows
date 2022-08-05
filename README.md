@@ -20,7 +20,7 @@ I live in and grew up in Arizona.  I spent 14 years in the US Army as an airborn
 
 [JS Programming](https://marc1776.github.io/reading-notes-codefellows/class7jsprogramming)
 
-[JS Operators](https://marc1776.github.io/reading-notes-codefellows/class7operators)
+[JS Operators](https://marc1776.github.io/reading-notes-codefellows/class8operators)
 
 
 Link to my github portfolio:  [Marc1776](https://github.com/marc1776)
