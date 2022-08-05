@@ -1,5 +1,7 @@
 # Javascript Notes
 
+[JS help](https://www.w3schools.com/js/default.asp)
+
 - Variables are containers for storing values.
 - JavaScript identifiers are case-sensitive.
 
@@ -58,4 +60,9 @@ let person = "John Doe",
 carName = "Volvo",
 price = 200;
 
+## Notes to self:
+
+Several screen shots have been saved under "102" in Code Fellows folder for ideas and help.  
+
+**This will take some time, but it will make sense**
 
