@@ -1,5 +1,9 @@
 # Reading Notes for Code 201
 
+## Intro
+
+As a continuation to 102, this section will cover notes, links, and anything *I find important* to help me learn or access as a resource.
+
 ## Table of contents
 
 [Reading 1]()
