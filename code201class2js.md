@@ -1,5 +1,25 @@
 # JavaScript Fundamentals
 
+## Data Types
+
+Loosely typed language = types can change
+
+- String: natural language characters
+- Numbers:  1 - 10000000 / fractions / decimals
+- Boolean:  True / False (truthy / falsey)
+- Undefined:  lacking a value (a value to say there is no value)
+- Null:  setting something to have no value
+- NaN: Not a Number (it only tells you what something is not, does not tell you what it is) usually means an error
+- isNan(). (is something NaN?)
+
+let nothing;  // value undefined
+
+nothing = null; // assigned the value of null
+
+## Conditional Statements
+
+Controls which lines of code are run
+
 
 
 
@@ -24,3 +44,4 @@ prompt('What is your name?');
 console.log('Your name is : ' + name);
 
 The prompt will appear, but the value won't be created.
+
