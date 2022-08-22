@@ -52,7 +52,9 @@ Two things that would require JS are things that require input or action from th
 
 JS is added with <script> element.
 
+## Things I want to know more about
 
+Functions, those things killed me in 102
 
 
 
