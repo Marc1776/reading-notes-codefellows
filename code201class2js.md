@@ -20,11 +20,41 @@ nothing = null; // assigned the value of null
 
 Controls which lines of code are run
 
+## HTML
 
+Semantics give content a specific meaning, appearance or function.  An h1 heading will always be the top level heading, or a footer will contain certain information consistently.  Something without semantics like <span> just lets me wrap content so I can do something with it in CSS or JS as a whole.
 
+There are 6 levels of heading in HTML, h1 - h6.
+  
+<sup> or superscript allows numbers or letters to be applied half way above another character, such as the th in the 25th of December or the 2 in x squared.
+<sub> does the opposite of <sup> and allows numbers to be put half-way down another character, such as a chemical formula.
 
+The title attribute is used to provide the full expansion of a term.
+  
+## CSS
 
+A <link> element is used to apply cSS to HTML, <link rel="stylesheet" href="location">
+  
+We avoid using CSS inline because it's the least effecient and it mixes with presentational code in HTML and content which really makes for a messy look in code.
 
+h2 is the selector
+color and padding are the declarations
+black and 5px are the properties
+  
+## JS
+
+The data type enclosed in single quote marks is a string
+  
+addition, subtraction, multiplication and division signs are 4 types of js operators
+  
+A real world problem that could be solved with a function is to perform some sort of math computation, running the function with the variables will produce that result when called.
+  
+## Conditionals
+  
+An if statement checks a condition and evaluates if it is true, then runs a code block.
+  
+An else if statement allows for more than 2 choices or outcomes to be evaluated
+  
 
 
 
@@ -44,4 +74,9 @@ prompt('What is your name?');
 console.log('Your name is : ' + name);
 
 The prompt will appear, but the value won't be created.
+
+## Things I want to know more about
+
+Functions
+I haven't used console.log much and should ask
 
