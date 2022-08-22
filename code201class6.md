@@ -37,3 +37,29 @@ Objects allow us to store information and prevents information from clashing wit
 Using an object vs an array.
 Extremely loose understanding of the DOM
 
+### In class notes
+
+Re-visit warm up for some HTML/CSS practice
+
+let person = {
+name: 'Marc',
+age: 38,
+hobbies: ['skateboarding', 'video games'],
+greet: function () {
+console.log('Hello.');
+ },
+ // contextual 'this' keyword
+ sayName: function () {
+ // in a metho 'this' refers to the object that the method is attached to.
+   console.log('My name is' + this.name);
+   }
+};
+
+person['name']; // reading the value, stored at the key: 'name'
+
+let people = [person];
+
+console.log(people[0], person['hobbies'][0]);
+
+person.greet();
+person.sayName();
