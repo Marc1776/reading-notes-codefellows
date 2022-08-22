@@ -55,8 +55,13 @@ An if statement checks a condition and evaluates if it is true, then runs a code
   
 An else if statement allows for more than 2 choices or outcomes to be evaluated
   
+comparison operators:
 
+  === or !== test if values are identical or not
+  < or >  test if values are less than or greater than another
+  <= or >= test if values are less/greater than or equal to another
 
+The logical operators && require both to be true for the whole to be true, while the || only requires one statement to be true for the whole to be true.
 
 
 ## Sidenotes from class:
