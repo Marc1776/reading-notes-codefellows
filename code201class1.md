@@ -48,7 +48,9 @@ Semantic value or meaning allows search engines to find the page, tells a develo
 
 ### JavaScript
 
+Two things that would require JS are things that require input or action from the user and animations.  HTML and CSS can create a page alone, but it would be static and would have to be up dated in the code every time. 
 
+JS is added with <script> element.
 
 
 
