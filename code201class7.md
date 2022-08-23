@@ -34,4 +34,14 @@ A constructor is a function called using a new keyword that will create a new ob
 
 ## In class notes:
 
+Object is a storage container for key value pairs.  Constructor functions are functions that create objects. The function defines the sahpe (the properties on the object).  The parameters represent values.
 
+Items that are different go in the constructor.
+
+Items that are the same go in the prototype.
+
+Almost 2 hour mark for adding dynamic objects (useful example)
+
+Object - single data thing, contains values organized by "key".  Key is how to find the value.  Anything can be a value.
+Constructor Functions - something (function) that produces objects => storage containers for key value pairs
+Prototype - an object shared by all objects that are produced from the constructor, separate object that tells what other objects from the constructor will share.
