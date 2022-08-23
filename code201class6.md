@@ -20,6 +20,8 @@ DOM is not a programming langue, while JS is, however documents can be manipulat
 
 ### Personal notes/observations
 
+name value pairs written name:"value"
+
 Inside an object, variables and functions are called properties and methods.
 
 The data, numbers or array are the properties and functions are methods
@@ -63,3 +65,8 @@ console.log(people[0], person['hobbies'][0]);
 
 person.greet();
 person.sayName();
+
+C - create
+R - 
+U - Update
+D - Delete
