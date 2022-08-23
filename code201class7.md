@@ -31,3 +31,7 @@ A constructor is a function called using a new keyword that will create a new ob
 ### Things I want to know more about
   
 [advanced html table](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Advanced)
+
+## In class notes:
+
+
