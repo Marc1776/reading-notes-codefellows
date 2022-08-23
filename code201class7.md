@@ -16,7 +16,11 @@ Tables are more complex structures than a basic HTML layout, so if they're used 
   
 ## Constructors
 
-
+A constructor is a function called using a new keyword that will create a new object, bind 'this' to the new object, run the code in the constructor and returns the new object.  The advantage is that devs won't have to input every single obect every single time using object literal; multiple objects can be made without reinputing similar data constantly.
+  
+## Prototype
+  
+  *Will have to revisit this question*
 
 ## Personal notes and observations
 
