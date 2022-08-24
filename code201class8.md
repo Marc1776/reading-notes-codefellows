@@ -20,3 +20,5 @@ This topic helps immensely.  My first 2 projects I was significantly frustrated 
 
 Through the link above, I want to find out more about the horizontal and vertical alignment and the options that gives me.
 
+### In class notes:
+
