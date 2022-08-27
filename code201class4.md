@@ -16,6 +16,14 @@ Block level element's content fills the available space of the parent element an
 
 Inline elements are just the size of their content, can't set the width or height.
 
+Static
+
+Absolute positioning allows us to isolate an element so that it doesn't interfere with outher layout elements of a page, such as pop-up boxes, control menus, rollover panels, or features that can be dragged and ropped anywhere on the page.
+
+Absolute positioning fixes an element in place to its nearest positioned ancestor, while fixed positioning can fix an element in place relative to the visible portion of the viewport.  [MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning)
+
+## JS function - reusable blocks of code
+
 
 
 
