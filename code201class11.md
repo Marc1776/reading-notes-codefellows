@@ -32,3 +32,8 @@ Repsonsive images, other than being aesthetically appealing, should be used beca
 
 < srcset > & < sizes > are both used to direct the browser, and allow it to choose, to the correct picture to use based on screen size.
 
+srcset is more helpful because it defines the set of images we allow the browser to choose from and what size they are.
+
+## things I want to know more about
+
+How HTML, CSS and JS work together to function across a wide array of screen resolutiions.
