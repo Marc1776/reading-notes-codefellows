@@ -28,7 +28,7 @@ As a continuation to 102, this section will cover notes, links, and anything *I 
 
 [Reading 11](https://marcdwagner.github.io/reading-notes-codefellows/code201class11)
 
-[Reading 12]()
+[Reading 12](https://marcdwagner.github.io/reading-notes-codefellows/code201class12)
 
 [Reading 13]()
 
