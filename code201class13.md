@@ -23,3 +23,7 @@ console.log( car );
 localStorage.setItem( 'car', JSON.stringify(car) );
 
 console.log( JSON.parse( localStorage.getItem( 'car' ) ) );
+
+## Things I want to know more about
+
+I wasn't super thrilled with the resource being 12 years old, but it does raise some interesting questions.  In the current day, a lot of data useage is unlimited, but in Alaska, it is not, so I can really see how using a local storage host would make much more sense than constantly re-sending all the information, especially for frequented sites.  I am curious how this plays out with the security concerns, spam, and scammers.
