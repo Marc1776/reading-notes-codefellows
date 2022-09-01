@@ -30,8 +30,8 @@ As a continuation to 102, this section will cover notes, links, and anything *I 
 
 [Reading 12](https://marcdwagner.github.io/reading-notes-codefellows/code201class12)
 
-[Reading 13]()
+[Reading 13](https://marcdwagner.github.io/reading-notes-codefellows/code201class13)
 
-[Reading 14]()
+[Reading 14a](https://marcdwagner.github.io/reading-notes-codefellows/code201class14a)
 
-[Reading 15]()
+[Reading 14b](https://marcdwagner.github.io/reading-notes-codefellows/code201class14b)
