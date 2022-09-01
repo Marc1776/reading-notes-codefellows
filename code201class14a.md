@@ -12,4 +12,10 @@ Transitions can alter the appearance or behavior of an element when a change of 
 
 Animation keyframes set multiple points at which an element should undergo a transition. [shayhowe](https://learn.shayhowe.com/advanced-html-css/transitions-animations/)
 
-Some of the benefits to using transitions on websites are that it really makes it about the user of the site, allows them to focus on what they've selected, makes it more aesthetically appealing
+Some of the benefits to using transitions on websites are that it really makes it about the user of the site, allows them to focus on what they've selected, makes it more aesthetically appealing and allows the user to interact with the site instead of just browsing.
+
+Transform, transitions, and animations will all give me more control over the CSS which can help let me really be creative.  They give me more tools to make my site more like the version I have in my head.
+
+## Things I want to know more about:
+
+A more solid understanding of CSS itself and how layout work together (or don't) will make this a more useful tool.
