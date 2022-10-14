@@ -8,6 +8,9 @@ I live in and grew up in Arizona.  I spent 14 years in the US Army as an airborn
 
 Link to my github portfolio:  [MarcDWagner](https://github.com/marcdwagner)
 
+![Combat Infantryman Badge](![CIB](https://user-images.githubusercontent.com/110312640/195932289-195e5eb9-463f-4986-bca8-ffa3a02e5abc.png)
+)
+
 ## Reading Note Links
 
 [Code 102 Intro to Software Development](https://marcdwagner.github.io/reading-notes-codefellows/code102readingnotes)
