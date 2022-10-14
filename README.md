@@ -14,6 +14,6 @@ Link to my github portfolio:  [MarcDWagner](https://github.com/marcdwagner)
 
 [Code 201 Foundations of Software Development](https://marcdwagner.github.io/reading-notes-codefellows/code201readingnotes)
 
-[Code 301 Intermediate Software Development]()
+[Code 301 Intermediate Software Development](https://marcdwagner.github.io/reading-notes-codefellows/Code301ReadingNotes)
 
 [Code 401 Python Advanced Software Development]()
