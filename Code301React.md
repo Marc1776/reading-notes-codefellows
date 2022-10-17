@@ -1,6 +1,6 @@
 # React Code 301 Reading Notes
 
-Componenets are a fundamental part of React, so this specific concept is important to understand because React is built upon it and if I want to be proficient with the tool, I need to understand it's foundation.
+Components are a fundamental part of React, so this specific concept is important to understand because React is built upon it and if I want to be proficient with the tool, I need to understand it's foundation.
 
 ## Component-Based Architecture
 
@@ -37,4 +37,4 @@ Uni-directional from parent to child.
 
 ## Things I want to know more about:
 
-On the surface the concept makes sense and I can see why componenets will be useful.  I do however wonder about future use and I'm having some trouble thinking of how I would have applied it to previous projects or work.  
+On the surface the concept makes sense and I can see why components will be useful.  I do however wonder about future use and I'm having some trouble thinking of how I would have applied it to previous projects or work.  
