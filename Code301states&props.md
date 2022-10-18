@@ -2,7 +2,7 @@
 
 ## Why this is important:
 
-
+State will be important because many sites use input from users to produces results or make changes to what the user sees.  
 
 ## React Lifecycle
 
@@ -26,3 +26,5 @@
 
 
 ## Things I want to know more about:
+
+More of something to keep in mind, the difference between state and props, updating vs static.
