@@ -2,7 +2,9 @@
 
 ## Why this is important:
 
+The spread operator is a multi-faceted tool that can help complete a lot of tasks much easier than I had thought it would.  Being able to simply combine arrays or objects and the many other abilities of the operator will clean up code and make it more concise.
 
+Passing functions between components will be important for taking user input and reflecting it back in addition to updating internal arrays that can be used for other processing as well.
 
 ## Lists and Keys
 
@@ -71,6 +73,14 @@ objectFour.laugh() // 😂😂😂😂😂
 4.  By using props in the child components method. this.props.increment()
 
 ## Things I Want to Know More About
+
+I want to know more about the 'why' behind keys.  At first glance it seems arbitrary.
+
+## Resources 
+
+[Lists and Keys](https://reactjs.org/docs/lists-and-keys.html) 
+ [Spread Operator](https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab) 
+[Passing Functions between Components](https://www.youtube.com/watch?v=c05OL7XbwXU)
 
 
 
