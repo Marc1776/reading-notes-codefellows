@@ -78,8 +78,8 @@ I want to know more about the 'why' behind keys.  At first glance it seems arbit
 
 ## Resources 
 
-[Lists and Keys](https://reactjs.org/docs/lists-and-keys.html) 
- [Spread Operator](https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab) 
+[Lists and Keys,](https://reactjs.org/docs/lists-and-keys.html) 
+ [Spread Operator,](https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab) 
 [Passing Functions between Components](https://www.youtube.com/watch?v=c05OL7XbwXU)
 
 
