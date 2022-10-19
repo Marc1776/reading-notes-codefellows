@@ -6,3 +6,8 @@
 
 [React State and Props](https://marcdwagner.github.io/reading-notes-codefellows/Code301states&props)
 
+[Passing Functions as Props](https://marcdwagner.github.io/reading-notes-codefellows/Code301FunctAsProps)
+
+[React and Forms]()
+
+[Putting it all Together]()
