@@ -2,7 +2,7 @@
 
 ## Why it's important:
 
-
+Thinking in React really helps to provide a structure moving forward for building in React.  Previous to this, I felt like I was just putting things places and hoping the parent-child relationship was what I thought it was.
 
 ## Thinking in React
 
@@ -29,11 +29,13 @@
 
 1.  > Functions that operate on other functions, either by taking them as arguments or by returning them, are called higher-order functions.  [Higher-Order Functions](https://eloquentjavascript.net/05_higher_order.html#h_xxCc98lOBK)
 
-2.  
+2.  Line 2 is returning whether or not m is greater than n by evaluating m against n.
+
+3.  Map actually iterates a function over each individual element in an array and changes them to something new in a new array.  So a function can create an array while mapping would then adjust that array to final product.
 
 ## Things I want to know more about:
 
-
+Higher-order Functions seems kind of asbstract at the moment, hoping that some class discussion and examples will clear it up a bit more.
 
 ## Personal Notes
 
@@ -41,14 +43,9 @@ Components, like functions or objects, should have a single responsibility, ie d
 
 In smaller projects its easier to build top-down in terms of parent-child components.  Versus on larger products it is easier to write components from bottom-top and write test whild building.
 
-
-
-[Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
-
-
 ### Reference Links
 
-[]()
+[THinking in React](https://reactjs.org/docs/thinking-in-react.html)
 
-[]()
+[Higher Order Functions](https://eloquentjavascript.net/05_higher_order.html#h_xxCc98lOBK)
 
