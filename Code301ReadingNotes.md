@@ -8,6 +8,6 @@
 
 [Passing Functions as Props](https://marcdwagner.github.io/reading-notes-codefellows/Code301FunctAsProps)
 
-[React and Forms](https://marcdwagner.github.io/reading-notes-codefellows/ReactandForms)
+[React and Forms](https://marcdwagner.github.io/reading-notes-codefellows/Code301ReactandForms)
 
-[Putting it all Together]()
+[Putting it all Together](https://marcdwagner.github.io/reading-notes-codefellows/Code301AllReact)
