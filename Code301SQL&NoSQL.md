@@ -34,6 +34,20 @@ SQL has predefined schema and NoSQL have dynamic schema
 
 2.  Relations are how SQL databases keep data matched to other data: example customer contact data with the customer.
 
+3.  Relational works with SQL
+
+4.  Schema is an organization of data.
+
+5.  NonStructured Query Language
+
+6.  It uses documents to store all the data.
+
+7.  Documents
+
+8.  MongoDB is more flexible: because of the lack of schema adhearance requirements, data items can be adjusted without adding new schema to all records
+
+9.  Duplicate data is more common because the documents don't require the same schema across the board.
+
 ## Things I want to know more about:
 
 A lot of new verbiage in today's read.  
