@@ -1,5 +1,9 @@
 # Diversity
 
+## Why is this important:
+
+In a moment of raw truth, it's 2022 and if someone doesn't understand why diversity is important they don't deserve to be in a management or leadership position.
+
 ## When women stopped coding
 
 1.  Personal computers became popular.
