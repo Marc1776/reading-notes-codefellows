@@ -1,19 +1,19 @@
 # Code 102 Reading Notes Content
 
-[Growth Mindset](https://marcdwagner.github.io/reading-notes-codefellows/class1growthmindset)
+[Growth Mindset](https://marcdwagner.github.io/reading-notes-codefellows/code102/class1growthmindset)
 
-[Markdown](https://marcdwagner.github.io/reading-notes-codefellows/class1bmarkdown)
+[Markdown](https://marcdwagner.github.io/reading-notes-codefellows/code102/class1bmarkdown)
 
-[Terminal](https://marcdwagner.github.io/reading-notes-codefellows/class2terminal)
+[Terminal](https://marcdwagner.github.io/reading-notes-codefellows/code102/class2terminal)
 
-[Revisions and Cloud](https://marcdwagner.github.io/reading-notes-codefellows/class3)
+[Revisions and Cloud](https://marcdwagner.github.io/reading-notes-codefellows/code102/class3)
 
-[HTML](https://marcdwagner.github.io/reading-notes-codefellows/class4html)
+[HTML](https://marcdwagner.github.io/reading-notes-codefellows/code102/class4html)
 
-[CSS](https://marcdwagner.github.io/reading-notes-codefellows/class5css)
+[CSS](https://marcdwagner.github.io/reading-notes-codefellows/code102/class5css)
 
-[JS](https://marcdwagner.github.io/reading-notes-codefellows/class6js)
+[JS](https://marcdwagner.github.io/reading-notes-codefellows/code102/class6js)
 
-[JS Programming](https://marcdwagner.github.io/reading-notes-codefellows/class7jsprogramming)
+[JS Programming](https://marcdwagner.github.io/reading-notes-codefellows/code102/class7jsprogramming)
 
-[JS Operators](https://marcdwagner.github.io/reading-notes-codefellows/class8operators)
+[JS Operators](https://marcdwagner.github.io/reading-notes-codefellows/code102/class8operators)
