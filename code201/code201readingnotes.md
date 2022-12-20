@@ -6,7 +6,7 @@ As a continuation to 102, this section will cover notes, links, and anything *I 
 
 ## Table of contents
 
-[Reading 1](https://marcdwagner.github.io/reading-notes-codefellows/code201class1)
+[Reading 1](https://marcdwagner.github.io/reading-notes-codefellows/code201/code201class1)
 
 [Reading 2](https://marcdwagner.github.io/reading-notes-codefellows/code201class2js)
 
