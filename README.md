@@ -8,10 +8,10 @@ I live in Arizona.  I spent 14 years in the US Army as an Airborne Infantryman a
 
 Link to my github portfolio:  [MarcDWagner](https://github.com/marcdwagner)
 
-## [Code 102 Intro to Software Development](https://marcdwagner.github.io/reading-notes-codefellows/code102readingnotes)
+## [Code 102 Intro to Software Development](https://marcdwagner.github.io/reading-notes-codefellows/code102/code102readingnotes)
 
-## [Code 201 Foundations of Software Development](https://marcdwagner.github.io/reading-notes-codefellows/code201readingnotes)
+## [Code 201 Foundations of Software Development](https://marcdwagner.github.io/reading-notes-codefellows/code201/code201readingnotes)
 
-## [Code 301 Intermediate Software Development](https://marcdwagner.github.io/reading-notes-codefellows/Code301ReadingNotes)
+## [Code 301 Intermediate Software Development](https://marcdwagner.github.io/reading-notes-codefellows/code301/Code301ReadingNotes)
 
-## [Code 401 Python Advanced Software Development](https://marcdwagner.github.io/reading-notes-codefellows/pythonReadingNotes)
+## [Code 401 Python Advanced Software Development](https://marcdwagner.github.io/reading-notes-codefellows/code401/pythonReadingNotes)
