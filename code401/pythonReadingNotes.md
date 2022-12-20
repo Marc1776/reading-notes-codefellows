@@ -6,7 +6,8 @@
 
 [Terminal Notes](https://marcdwagner.github.io/reading-notes-codefellows/code401/pythonterminal)
 
-[Big O, Names&Values](https://marcdwagner.github.io/reading-notes-codefellows/code401/pythonClass1)
+[Big O, Names & Values](https://marcdwagner.github.io/reading-notes-codefellows/code401/pythonClass1)
 
 [Engineering My Thinking](https://marcdwagner.github.io/reading-notes-codefellows/code401/pythonEngineering)
 
+[Testing & Modules](https://marcdwagner.github.io/reading-notes-codefellows/code401/pythontestingmodules)
