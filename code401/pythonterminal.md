@@ -1,4 +1,4 @@
-# Bash Command Line
+# Terminal
 
 ## Command Line
 
