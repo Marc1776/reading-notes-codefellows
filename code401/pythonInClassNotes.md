@@ -27,3 +27,10 @@ TDD:  write tests first with end goal in mind then writed code to match
 
 @pytest.mark.skip() directly over a test function to skip it
 
+12/21/22
+
+ipynb = i python notebook
+
+touch file_io.ipynb  
+
+both markdown and python code in the same file, from jupyter notebook
