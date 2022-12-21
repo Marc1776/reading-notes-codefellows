@@ -11,3 +11,6 @@
 [Engineering My Thinking](https://marcdwagner.github.io/reading-notes-codefellows/code401/pythonEngineering)
 
 [Testing & Modules](https://marcdwagner.github.io/reading-notes-codefellows/code401/pythontestingmodules)
+
+[FileIO & Exceptions](https://marcdwagner.github.io/reading-notes-codefellows/code401/pythonfileIOandexceptions)
+
