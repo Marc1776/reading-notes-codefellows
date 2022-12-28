@@ -33,7 +33,24 @@ myList = [2, 109, False, 10, "Lorem", 482, "Ipsum"]
 random.choice(myList)
 ```
 
+shuffle()  elements of a list are shuffled and returned in a new list
 
+```python
+x = [[i] for i in range(10)]
+shuffle(x)
+#output:
+#[[9], [2], .....etc thru 10 indeces]
+```
+
+randrange()  selects a random element from a range, 3 numbers as input start, stop, step.  Acts like a combo of choice() and range()
+
+```python
+random.randrang(start, stop [, step])
+
+import random
+for i in range(3):
+  pring random.randrange(0, 101, 5)
+  ```
 
 ## Risk analysis
 
